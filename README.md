@@ -1,3 +1,7 @@
 # hellothere
-First time here
-making a commit
+#First time here
+#making a commit
+
+x = 24
+
+print(x)
